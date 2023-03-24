@@ -1,4 +1,4 @@
-package com.mic.s3poc;
+package com.mic.s3poc.resource.dto;
 
 public class UploadRequest {
 

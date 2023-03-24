@@ -1,4 +1,4 @@
-package com.mic.s3poc;
+package com.mic.s3poc.resource;
 
 import com.mic.s3poc.facade.S3Facade;
 import com.mic.s3poc.qualifiers.Swisscom;

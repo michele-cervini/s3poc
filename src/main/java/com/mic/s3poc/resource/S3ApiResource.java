@@ -1,7 +1,7 @@
 package com.mic.s3poc.resource;
 
-import com.mic.s3poc.UploadRequest;
 import com.mic.s3poc.facade.S3Facade;
+import com.mic.s3poc.resource.dto.UploadRequest;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.DELETE;
